@@ -21,3 +21,7 @@ if __name__ == "__main__":
         "ABNORMAL_CONDITION",
         "Sample test event - not from real hardware"
     )
+record_event(
+        "OVERLOAD",
+        "Sample overload test - not from real hardware"
+    )
